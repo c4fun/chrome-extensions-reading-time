@@ -17,6 +17,12 @@
         "https://developer.chrome.com/docs/webstore/*",
         "https://developer.chrome.com/docs/devtools/*"
       ]
+    },
+    {
+      "js": ["scripts/gitlab-docs.js"],
+      "matches": [
+        "https://docs.gitlab.com/ee/*"
+      ]
     }
   ]
 }
